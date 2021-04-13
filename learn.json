@@ -1,7 +1,7 @@
 {
     "config": {
         "port": 3000,
-        "address": "https://pink-dinosaur-67x4i7w8.ws-us03.gitpod.io",
+        "address": "https://amethyst-reindeer-3vpov611.ws-us03.gitpod.io",
         "editor": {
             "mode": "gitpod",
             "version": "1.0.61"
@@ -14,6 +14,9 @@
         "exercisesPath": ".learn/exercises",
         "disableGrading": false,
         "actions": [
+            "build",
+            "test",
+            "reset",
             "build",
             "test",
             "reset",
@@ -327,7 +330,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 10,
@@ -357,7 +360,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 11,
@@ -387,7 +390,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 12,
@@ -417,7 +420,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 13,
